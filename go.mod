@@ -1,4 +1,4 @@
-module otelkafkago
+module github.com/rafaribe/otelkafkago
 
 go 1.19
 
